@@ -42,7 +42,6 @@ def get_similar_users(screen_name):
 	    twitter user with interests similar to the target user 
 	
 	Args:
-	
 	screen_name: the twitter_handle of the target_user
 	"""
 	
