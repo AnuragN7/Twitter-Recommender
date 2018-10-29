@@ -9,3 +9,5 @@ Running the app:
 3. Enter 'python3 -i user = User(twitter_user)' where user is the handle of whoever you choose.
 4. Due to modular issues, python's networkx package failed to plot results. So include a method that displayes the data the app found in the terminal.
 5. Type in 'user.display_related_users()' to see all the users related to the appication's target user.
+
+I decided not include my twitter credentials due to the sensitivity of the data. If you want to be able use the app, you'll need to register your own application and use those credentials to leverage the twitter api.
