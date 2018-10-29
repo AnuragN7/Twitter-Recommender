@@ -9,7 +9,6 @@ class User:
 		
 		
 		Args: 
-
 		screen_name: The twitter handle that represents the twitter object 
 		"""
 		self.screen_name = screen_name
